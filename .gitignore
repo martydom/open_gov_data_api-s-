@@ -74,6 +74,10 @@ docs/_build/
 # PyBuilder
 target/
 
+# resources
+experiment_notebooks/secrets.py
+resources/
+
 # Jupyter Notebook
 .ipynb_checkpoints
 
